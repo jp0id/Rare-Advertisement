@@ -1,0 +1,15 @@
+# NAME: 亲邻开门
+# AUTHOR: jp0id
+# REPO: https://github.com/jp0id/Rare-Advertisement
+# UPDATED: 2025-10-28 14:14:00
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 2
+# TOTAL: 8
+DOMAIN,s3plus.meituan.net
+DOMAIN,mall-dsp2.qinlinkeji.com
+DOMAIN,mallapi2.qinlinkeji.com
+DOMAIN,pic-mall.qinlinad.com
+DOMAIN,qadx.qinlinad.com
+DOMAIN,tracker.yfanads.com
+DOMAIN-SUFFIX,adx-data.yfanads.com
+DOMAIN-SUFFIX,yfanads.com
